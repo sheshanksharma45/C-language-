@@ -5,7 +5,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Name: Santu Prasad\n");
+    printf("Name: Sheshank sharma\n");
     printf("Age: 20");
     return 0;
+
 }
